@@ -40,7 +40,7 @@
 <h3 align="center">🧠 LeetCode Stats</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ashiumrao24?theme=dark&font=Montserrat&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
 </p>
 
 <br/>
