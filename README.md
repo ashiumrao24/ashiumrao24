@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/card?username=aashiumrao24&theme=dark" />
+  <img src="https://cp-logo.vercel.app/codechef/aashiumrao24" />
 </p>
 
 ---
