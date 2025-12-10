@@ -7,13 +7,21 @@
   <img src="https://komarev.com/ghpvc/?username=ashiumrao24&label=Profile%20Views&color=9f71ff&style=flat-square" />
 </p>
 
-<div align="center">
+---
 
-### 📈 Competitive Programming
+<h2 align="center"> 📉Competitive Programming📈</h2>
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.codechef.com/users/aashiumrao24">
+    <img src="https://img.shields.io/badge/CodeChef-aashiumrao24-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 
 <br/>
@@ -25,6 +33,8 @@
 </p>
 
 <br/>
+
+---
 
 <h3 align="center">🛠 Tech Stack</h3>
 
