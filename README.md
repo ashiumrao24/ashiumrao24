@@ -71,11 +71,11 @@
 ---
 
 
-<h2 align="center">📈GitHub Statistics</h2>
+<h2 align="center">📈 GitHub Statistics</h2>
 
 <br/>
 
-<h3>📊Contribution Graph</h3>
+<h3>📊 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiumrao24&theme=react-dark"/>
@@ -84,14 +84,6 @@
 <br/>
 
 ---
-
-<h3 align="center">🧰 Featured Project</h3>
-
-<p align="center">
-  <a href="https://github.com/ashiumrao24/credit-risk-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiumrao24&repo=credit-risk-model&theme=tokyonight"/>
-  </a>
-</p>
 
 <br/>
 
