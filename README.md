@@ -11,26 +11,26 @@
 
 <h2 align="center">📈 Competitive Programming</h2>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td align="center">
+    <td align="center" style="border:none; padding-right: 15px;">
       <a href="https://codeforces.com/profile/aashiumrao" target="_blank">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+        <img 
+          src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" 
+          width="420" 
+        />
       </a>
     </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap&border_radius=10" />
+    <td align="center" style="border:none; padding-left: 15px;">
+      <a href="https://leetcode.com/u/ashiumrao7/" target="_blank">
+        <img 
+          src="https://leetcard.jacoblin.cool/ashiumrao7?theme=dark&font=Montserrat&ext=heatmap&border_radius=10" 
+          width="420" 
+        />
       </a>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/aashiumrao24" target="_blank">
-    <img src="https://cp-logo.vercel.app/codechef/aashiumrao24" />
-  </a>
-</p>
 
 ---
 
