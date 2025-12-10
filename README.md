@@ -25,7 +25,7 @@
 
 ---
 
-<h2>🧠 LeetCode Stats</h2>
+<h2 align="center">🧠 LeetCode Stats</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
@@ -35,13 +35,43 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack</h2>
 
+---
+
+### 🔹 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+---
+
+### 🔹 Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
+### 🔹 Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
 
 <br/>
 
