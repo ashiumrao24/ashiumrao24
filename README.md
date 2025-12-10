@@ -71,11 +71,11 @@
 ---
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈GitHub Statistics</h2>
 
 <br/>
 
-<h3>📊 Contribution Graph</h3>
+<h3>📊Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiumrao24&theme=react-dark"/>
