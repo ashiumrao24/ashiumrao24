@@ -1,7 +1,7 @@
 <h1 align="center">An Engineer</h1>
 
 <p align="center">
-  ⚙️ C/C++ • 🐍 Python • ☕ Java • 🌐 JavaScript
+  ⚙️ C/C++ • 🐍 Python 
 </p>
 
 <hr/>
@@ -50,8 +50,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql"/>
 </p>
 
