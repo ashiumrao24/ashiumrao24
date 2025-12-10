@@ -9,23 +9,26 @@
 
 ---
 
-<h2 align="center"> 📉Competitive Programming📈</h2>
+<h2 align="center">📈 Competitive Programming</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/aashiumrao" target="_blank">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/aashiumrao" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/ashiumrao24">
-    <img src="https://img.shields.io/badge/CodeChef-ashiumrao24-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://www.codechef.com/users/aashiumrao24" target="_blank">
+    <img src="https://cp-logo.vercel.app/codechef/aashiumrao24" />
   </a>
 </p>
 
