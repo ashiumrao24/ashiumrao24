@@ -26,7 +26,7 @@
 
 <br/>
 
-<h3 align="center">🧠 LeetCode Stats</h3>
+<h2 align="center">🧠 LeetCode Stats</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
