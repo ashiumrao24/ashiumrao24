@@ -12,7 +12,9 @@
 <h2 align="center"> 📉Competitive Programming📈</h2>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+  <a href="https://codeforces.com/profile/aashiumrao" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+  </a>
 </p>
 
 <p align="center">
@@ -26,7 +28,9 @@
 <h2 align="center">🧠 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
+  <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
+  </a>
 </p>
 
 ---
