@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Aashi Umrao</h1>
+<p align="center">
+  <b>Electrical Engineering Student | Aspiring Data Analyst | Competitive Programmer</b>
+</p>
 
-<!--
-**ashiumrao24/ashiumrao24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashiumrao24&label=Profile%20Views&color=9f71ff&style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```js
+const aashi = {
+  location: "India 🇮🇳",
+  currentFocus: "Data Analytics, Machine Learning & Competitive Programming",
+  funFact: "I love working with data and dashboards 📊",
+  hobbies: ["Problem Solving", "Open Source", "Power BI", "Python"]
+};
