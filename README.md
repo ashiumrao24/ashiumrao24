@@ -7,11 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=ashiumrao24&label=Profile%20Views&color=9f71ff&style=flat-square" />
 </p>
 
-<h2 align="center">📈 Competitive Programming</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://cp-logo.vercel.app/codeforces/aashiumrao"/>
-</p>
+### 📈 Competitive Programming
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
+
+</div>
 
 <table align="center">
   <tr>
