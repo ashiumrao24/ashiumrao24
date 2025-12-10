@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">🧠 LeetCode Stats</h2>
+<h2>🧠 LeetCode Stats</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
