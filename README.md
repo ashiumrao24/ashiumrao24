@@ -16,9 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/aashiumrao24">
-    <img src="https://img.shields.io/badge/CodeChef-aashiumrao24-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  <img src="https://codechef-readme-stats.vercel.app/api/card?username=aashiumrao24&theme=dark" />
 </p>
 
 ---
