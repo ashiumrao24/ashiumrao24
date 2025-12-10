@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">📈 Competitive Programming</h2>
+<h2 align="center">📉 Competitive Programming 📈</h2>
 
 <table align="center" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
