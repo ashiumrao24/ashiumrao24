@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aashi Umrao</h1>
 <p align="center">
-  <b>Electrical Engineering Student | Aspiring Data Analyst | Competitive Programmer</b>
+  <b>💫Passionate Developer | Data Analyst | Competitive Programmer</b>
 </p>
 
 <p align="center">
@@ -15,28 +15,6 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td><b>Handle</b></td>
-    <td>ashiumrao24</td>
-  </tr>
-  <tr>
-    <td><b>Platform</b></td>
-    <td>Codeforces / CodeChef / LeetCode</td>
-  </tr>
-  <tr>
-    <td><b>Focus</b></td>
-    <td>Data Structures & Algorithms</td>
-  </tr>
-  <tr>
-    <td><b>Languages Used</b></td>
-    <td>C++, Python</td>
-  </tr>
-  <tr>
-    <td><b>Goal</b></td>
-    <td>Master DSA & Competitive Programming</td>
-  </tr>
-</table>
 
 <br/>
 
