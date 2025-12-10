@@ -71,29 +71,19 @@
 ---
 
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiumrao24&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiumrao24&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashiumrao24&theme=tokyonight&hide_border=true"/>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <br/>
 
-<h3 align="center">📊 Contribution Graph</h3>
+<h3>📊 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiumrao24&theme=react-dark"/>
 </p>
 
 <br/>
+
+---
 
 <h3 align="center">🧰 Featured Project</h3>
 
