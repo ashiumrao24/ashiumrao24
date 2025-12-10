@@ -12,6 +12,12 @@
 <h2 align="center"> 📉Competitive Programming📈</h2>
 
 <p align="center">
+  <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://codeforces.com/profile/aashiumrao" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" />
   </a>
@@ -20,16 +26,6 @@
 <p align="center">
   <a href="https://www.codechef.com/users/ashiumrao24">
     <img src="https://img.shields.io/badge/CodeChef-ashiumrao24-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">🧠 LeetCode Stats</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap"/>
   </a>
 </p>
 
@@ -97,12 +93,4 @@
   <a href="https://www.instagram.com/aashiumrao18/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  simple person who codes for fun. Here to learn and contribute.
-</p>
-
-<p align="center">
-  ⭐ Star some repositories if you like my work!
 </p>
