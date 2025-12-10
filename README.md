@@ -22,9 +22,9 @@
       </a>
     </td>
     <td align="center" style="border:none; padding-left: 15px;">
-      <a href="https://leetcode.com/u/ashiumrao7/" target="_blank">
+      <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
         <img 
-          src="https://leetcard.jacoblin.cool/ashiumrao7?theme=dark&font=Montserrat&ext=heatmap&border_radius=10" 
+          src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap&border_radius=10" 
           width="420" 
         />
       </a>
