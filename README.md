@@ -1,15 +1,16 @@
-<h1 align="center">An Engineer</h1>
-
+<h1 align="center">👋 Hi, I'm Aashi Umrao</h1>
 <p align="center">
-  ⚙️ C/C++ • 🐍 Python 
+  <b>Electrical Engineering Student | Aspiring Data Analyst | Competitive Programmer</b>
 </p>
 
-<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashiumrao24&label=Profile%20Views&color=9f71ff&style=flat-square" />
+</p>
 
 <h2 align="center">📈 Competitive Programming</h2>
 
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codeforces/ashiumrao24"/>
+  <img src="https://cp-logo.vercel.app/codeforces/aashiumrao"/>
 </p>
 
 <table align="center">
