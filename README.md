@@ -85,26 +85,19 @@
 
 ---
 
-<br/>
-
-<h3 align="center">🌐 Connect With Me</h3>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aashi-umrao/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"/>
+  <a href="mailto:aashiumrao24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:aashiumrao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail"/>
+  <a href="https://www.linkedin.com/in/aashi-umrao-b582132b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/ashiumrao24/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode"/>
-  </a>
-  <a href="https://codeforces.com/profile/ashiumrao24">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces"/>
+  <a href="https://www.instagram.com/aashiumrao18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
-<br/>
 
 <p align="center">
   simple person who codes for fun. Here to learn and contribute.
