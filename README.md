@@ -71,7 +71,8 @@
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
-  
+<div align="center">
+ 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiumrao24&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC)](https://git.io/streak-stats)
 
