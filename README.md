@@ -74,7 +74,7 @@
 <div align="center">
   
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiumrao24r&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashiumrao24&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC)](https://git.io/streak-stats)
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ashiumrao24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
