@@ -73,7 +73,7 @@
  
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashiumrao24&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashiumrao24&theme=tokyonight&hide_border=true&bg_color=0D1117&stroke=0D1117&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
 </p>
 
 
