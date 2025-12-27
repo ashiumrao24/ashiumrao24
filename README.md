@@ -69,23 +69,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Statistics</h2>
-
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashiumrao24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiumrao24&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</p>
-
-<h3>📊 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiumrao24&theme=react-dark"/>
-</p>
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
