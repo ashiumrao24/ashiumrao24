@@ -9,31 +9,6 @@
 
 ---
 
-<h2 align="center">📉 Competitive Programming 📈</h2>
-
-<table align="center" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td align="center" style="border:none; padding-right: 15px;">
-      <a href="https://codeforces.com/profile/aashiumrao" target="_blank">
-        <img 
-          src="https://codeforces-readme-stats.vercel.app/api/card?username=aashiumrao&theme=dark" 
-          width="420" 
-        />
-      </a>
-    </td>
-    <td align="center" style="border:none; padding-left: 15px;">
-      <a href="https://leetcode.com/u/aashiumrao7/" target="_blank">
-        <img 
-          src="https://leetcard.jacoblin.cool/aashiumrao7?theme=dark&font=Montserrat&ext=heatmap&border_radius=10" 
-          width="420" 
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 
